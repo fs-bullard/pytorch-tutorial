@@ -1,2 +1,2 @@
 # pytorch-tutorial
-Following [this](https://pytorch.org/tutorials/beginner/basics/intro.html) PyTorch basics tutorial 
+Following the [PyTorch basics tutorial](https://pytorch.org/tutorials/beginner/basics/intro.html).
